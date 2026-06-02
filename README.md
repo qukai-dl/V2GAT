@@ -1,4 +1,5 @@
-$V^2$GAT-code
+## $V^2$GAT-code
+
 The source code for the $V^2$GAT
 
 will be made publicly available upon acceptance of the paper.
